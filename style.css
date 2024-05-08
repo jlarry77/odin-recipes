@@ -1,0 +1,45 @@
+
+
+
+.home-list {
+    background-color: yellow;
+    color: black;
+}
+
+.home-list {
+    background-color: yellow;
+    color: black;
+}
+
+ul {
+    background-color: black;
+    color: white;
+
+}
+
+ol {
+    background-color: darkgreen;
+    color: white;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+h1 {
+    color: darkred;
+    font-size: 42px;
+    text-align: center;
+
+}
+
+
+
+p {
+    background-color: darkblue;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
